@@ -70,12 +70,7 @@ class App extends Component {
     } )
 
     let food = data.food.map( ( food, i ) => {
-      return (
-        <div key={i}>
-          <Food food={food} quantity={food} />
-        </div>
-        
-      )
+      return <Food key={i} food={food} />
     } )
 
     return (

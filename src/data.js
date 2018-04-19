@@ -1,6 +1,6 @@
 module.exports = {
 
-    animals: ['cat', 'dog', 'hamster', 'parrot', 'walrus', 'monkey', 'fish', 'turtle', 'lizard', 'pikachu'],
+    animals: ['cat', 'cat', 'dog', 'hamster', 'parrot', 'walrus', 'monkey', 'fish', 'turtle', 'lizard', 'pikachu'],
 
     food: ['cat food', 'dog food', 'hamster food', 'parrot food', 'walrus food', 'monkey food', 'fish food', 'turtle food', 'lizard food', 'pikachu food'],
 
